@@ -1,0 +1,4 @@
+have QA test a static target in the form of a branch
+have a branch for the customer release
+have a branch for development
+branch for experiments
